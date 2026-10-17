@@ -18,4 +18,4 @@ Everything here comes from things I've built or figured out along the way, inclu
 
 ### Find me
 
-[TikTok @lilytewolde](https://www.tiktok.com/@lilytewolde) · [LinkedIn](https://www.linkedin.com/in/lilytewolde) · @promptesss
+[TikTok @lilytewolde](https://www.tiktok.com/@lilytewolde) · [LinkedIn](https://www.linkedin.com/in/lilytewolde) · [Instagram @promptesss](https://www.instagram.com/promptesss)
