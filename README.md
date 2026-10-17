@@ -1,4 +1,4 @@
-<!-- DRAFT v5 (2026-10-17). Light banner only. Repo names not final. -->
+<!-- DRAFT v6 (2026-10-17). Light banner only. Repo names: awesome-ai-tools, ai-guides, today-i-learned. -->
 <img src="banner-light.png" alt="Lily Tewolde's pixel desktop: AI product builder and PM, with guides, TIL notes and an awesome list.">
 
 ## Hi, I'm Lily
@@ -11,10 +11,10 @@ Everything here comes from things I've built or figured out along the way, inclu
 
 | If you're... | Start with |
 |---|---|
-| Job hunting | [LinkedIn playbook](#) · [Resume audit](#) |
+| Job hunting | [LinkedIn playbook](https://github.com/Lily-Tewolde/ai-guides/blob/main/linkedin-playbook.md) · [Resume audit](#) |
 | Building with Claude | [My Claude workflows and skills](#) |
-| Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-product-building) of tools for design, product and engineering |
-| Short on time | [Today I learned](https://github.com/Lily-Tewolde/til), quick notes |
+| Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-tools) of tools for design, product and engineering |
+| Short on time | [Today I learned](https://github.com/Lily-Tewolde/today-i-learned), quick notes |
 
 ### Find me
 
