@@ -1,8 +1,5 @@
-<!-- DRAFT v4 (2026-10-17). Matches "profile mockup" images in the GITHUB folder. Repo names not final. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-  <img src="banner-light.png" alt="Lily Tewolde, AI product builder. Notes, tools and guides for building with AI.">
-</picture>
+<!-- DRAFT v5 (2026-10-17). Light banner only. Repo names not final. -->
+<img src="banner-light.png" alt="Lily Tewolde's pixel desktop: AI product builder and PM, with guides, TIL notes and an awesome list.">
 
 ## Hi, I'm Lily
 
