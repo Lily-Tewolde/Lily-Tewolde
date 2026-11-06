@@ -12,9 +12,11 @@ Everything here comes from things I've built or figured out along the way, inclu
 | If you're... | Start with |
 |---|---|
 | Job hunting | [LinkedIn playbook](https://github.com/Lily-Tewolde/ai-guides/blob/main/linkedin-playbook.md) · [Resume audit](#) |
+| Getting organized | [Organize your Desktop with Claude](https://github.com/Lily-Tewolde/ai-guides/tree/main/01-desktop-organizer) |
 | Building with Claude | [My Claude workflows and skills](#) |
 | Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-tools) of tools for design, product and engineering |
 | Short on time | [Today I learned](https://github.com/Lily-Tewolde/today-i-learned), quick notes |
+| Want all my guides | [AI guides](https://github.com/Lily-Tewolde/ai-guides) |
 
 ### Find me
 
