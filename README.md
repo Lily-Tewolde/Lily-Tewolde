@@ -13,10 +13,10 @@ Everything here comes from things I've built or figured out along the way, inclu
 | Job hunting | [LinkedIn playbook](https://github.com/Lily-Tewolde/ai-guides/tree/main/02-linkedin-playbook) · [Resume audit](https://github.com/Lily-Tewolde/ai-guides/tree/main/04-resume-audit) |
 | Getting organized | [Organize your Desktop](https://github.com/Lily-Tewolde/ai-guides/tree/main/01-desktop-organizer) · [Sort a messy image folder](https://github.com/Lily-Tewolde/ai-guides/tree/main/03-image-organizer) |
 | Want all my guides | [AI guides](https://github.com/Lily-Tewolde/ai-guides) |
+| Building with Claude | [My Claude skills](https://github.com/Lily-Tewolde/claude-skills), adapted and credited |
 | Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-tools) of tools for building apps and running product work |
 
 <!-- Hidden until each one is ready:
-| Building with Claude | [My Claude workflows and skills](#) |
 | Short on time | [Today I learned](https://github.com/Lily-Tewolde/today-i-learned), quick notes |
 -->
 
