@@ -1,4 +1,4 @@
-<img src="banner-light.png" alt="Lily Tewolde's pixel desktop: AI product builder and PM, with guides, TIL notes and an awesome list.">
+<img src="banner-light.png" alt="My pixel desktop as an AI product builder and PM, with guides, TIL notes and an awesome list.">
 
 ## Hi, I'm Lily
 
