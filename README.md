@@ -13,11 +13,11 @@ Everything here comes from things I've built or figured out along the way, inclu
 | Job hunting | [LinkedIn playbook](https://github.com/Lily-Tewolde/ai-guides/tree/main/02-linkedin-playbook) |
 | Getting organized | [Organize your Desktop](https://github.com/Lily-Tewolde/ai-guides/tree/main/01-desktop-organizer) · [Sort a messy image folder](https://github.com/Lily-Tewolde/ai-guides/tree/main/03-image-organizer) |
 | Want all my guides | [AI guides](https://github.com/Lily-Tewolde/ai-guides) |
+| Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-tools) of tools for building apps and running product work |
 
 <!-- Hidden until each one is ready:
 | Job hunting | add: · [Resume audit](#) |
 | Building with Claude | [My Claude workflows and skills](#) |
-| Looking for tools | [My awesome list](https://github.com/Lily-Tewolde/awesome-ai-tools) of tools for design, product and engineering |
 | Short on time | [Today I learned](https://github.com/Lily-Tewolde/today-i-learned), quick notes |
 -->
 
@@ -44,7 +44,7 @@ My top picks for running product work:
 - **Linear:** The more sophisticated older sister of Asana. Really fast and easy to connect to GitHub.
 - **PostHog:** The cooler older sibling of Google Analytics. Cute, packed with analytics features, and free to start.
 
-<!-- Add once awesome-ai-tools exists: [Full list →](https://github.com/Lily-Tewolde/awesome-ai-tools) -->
+[Full list →](https://github.com/Lily-Tewolde/awesome-ai-tools)
 
 ### 💌 Find me
 
