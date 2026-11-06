@@ -3,7 +3,7 @@
 
 ## Hi, I'm Lily
 
-I like to build apps and teach girls AI. I'm a product manager and AI builder, I run Dira Studio, and I co-founded Mela AI.
+I like to build apps and teach girls AI. I'm a product manager and AI builder.
 
 Everything here comes from things I've built or figured out along the way, including my own job search. You don't need to know how to code to use any of it, since it all works with copy and paste.
 
