@@ -11,6 +11,7 @@ Everything here comes from things I've built or figured out along the way, inclu
 | If you're... | Start with |
 |---|---|
 | Job hunting | [LinkedIn playbook](https://github.com/Lily-Tewolde/ai-guides/tree/main/02-linkedin-playbook) · [Resume audit](https://github.com/Lily-Tewolde/ai-guides/tree/main/04-resume-audit) |
+| Becoming more technical | [How to become more technical](https://github.com/Lily-Tewolde/how-to-become-more-technical), 13 short lessons from your first PR to evals |
 | Getting organized | [Organize your Desktop](https://github.com/Lily-Tewolde/ai-guides/tree/main/01-desktop-organizer) · [Sort a messy image folder](https://github.com/Lily-Tewolde/ai-guides/tree/main/03-image-organizer) |
 | Want all my guides | [AI guides](https://github.com/Lily-Tewolde/ai-guides) |
 | Building with Claude | [My Claude skills](https://github.com/Lily-Tewolde/claude-skills), adapted and credited |
